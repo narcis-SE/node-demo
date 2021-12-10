@@ -8,4 +8,4 @@ function sumOfArray(numbers){
 
 module.exports ={
     sumOfArray: sumOfArray
-}
+} 

@@ -5,4 +5,4 @@ console.log(data.name + " is from " +data.hometown)
 
 const sum = require("./sum.js");
 
-console.log(sum.sumOfArray(data.numbers));
+console.log(sum.sumOfArray(data.numbers)); 

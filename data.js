@@ -6,4 +6,4 @@ module.exports = {
     numbers: numbers,
     name: name,
     hometown: hometown
-}
+} 
